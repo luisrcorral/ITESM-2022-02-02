@@ -28,6 +28,5 @@ class TargetActivity : AppCompatActivity() {
 
         val txtView : TextView = findViewById<TextView>(R.id.textView2)
         txtView.text = myString
-
     }
 }
